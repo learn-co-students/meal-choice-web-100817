@@ -4,5 +4,4 @@ require 'pry'
 
 def meal_choice(choice ="meat")
   choice
-  binding.pry
 end
