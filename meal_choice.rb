@@ -3,6 +3,6 @@ require 'pry'
 # passed into it and defaults to meat.
 
 def meal_choice(your_choice ="meat"){
-  your_choice
+
 end
 }
