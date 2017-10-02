@@ -3,7 +3,6 @@ require 'pry'
 # passed into it and defaults to meat.
 
 def meal_choice(choice ="meat")
-  choice 
-  binding.pry 
+  choice
+  binding.pry
 end
-
